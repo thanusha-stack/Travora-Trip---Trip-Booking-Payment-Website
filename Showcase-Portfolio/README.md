@@ -1,6 +1,6 @@
 # 🧳 Travora Trip – MERN Travel Marketplace (Portfolio Showcase)
 
-### 🔗 Website Preview : [Live Demo: https://travora-trip.onrender.com](https://travora-trip.onrender.com)
+### 🔗 Website Preview : [https://travora-trip.onrender.com](https://travora-trip.onrender.com)
 
 > [!NOTE]
 > **This is a Showcase Repository.** 
