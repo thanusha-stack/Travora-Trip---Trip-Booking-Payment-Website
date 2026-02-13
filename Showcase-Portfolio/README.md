@@ -1,4 +1,4 @@
-# 🧳 Travora Trip – Full-Stack MERN Travel Marketplace (Portfolio Showcase)
+# 🧳 Travora Trip – MERN Travel Marketplace (Portfolio Showcase)
 
 ### 🔗 Website Preview : [Live Demo: https://travora-trip.onrender.com](https://travora-trip.onrender.com)
 
