@@ -1,5 +1,8 @@
 # 🧳 Travora Trip – Full-Stack MERN Travel Marketplace (Portfolio Showcase)
 
+### 📸 Website Preview
+**WEBSITE URL**: travora-trip.onrender.com
+
 > [!NOTE]
 > **This is a Showcase Repository.** 
 > This repository is designed to showcase the architecture, UI/UX, and core technical implementation of the **Travora Trip** project. 
@@ -39,11 +42,6 @@ In this showcase, I have included selected files in the `src_highlights/` direct
 ### 💳 Payments & Transactions
 - **Razorpay Integration**: Seamless checkout and automated total amount calculation.
 - **Real-time Verification**: Secure backend validation of transaction IDs.
-
----
-
-## 📸 Website Preview
-**WEBSITE URL**: travora-trip.onrender.com
 ---
 
 ## 🛠️ Tech Stack
