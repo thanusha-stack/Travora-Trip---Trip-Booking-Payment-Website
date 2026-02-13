@@ -1,7 +1,6 @@
 # 🧳 Travora Trip – Full-Stack MERN Travel Marketplace (Portfolio Showcase)
 
-### 📸 Website Preview
-**WEBSITE URL**: travora-trip.onrender.com
+### 🔗 Website Preview : [Live Demo: https://travora-trip.onrender.com](https://travora-trip.onrender.com)
 
 > [!NOTE]
 > **This is a Showcase Repository.** 
@@ -9,7 +8,7 @@
 > 
 > **To protect Intellectual Property:** The complete source code and logic are stored in a private repository. This showcase contains high-level documentation and selected code highlights.
 > 
-> **Recruiters & Hiring Managers:** If you would like to review the full codebase, please reach out via email thanusha13062006@gmail.com. I am happy to provide access!
+> **Recruiters & Hiring Managers:** If you would like to review the full codebase, please reach out via email thanusha13062006@gmail.com or [LinkedIn](linkedin.com/in/thanusha-a-5a7169300). I am happy to provide access!
 
 ---
 
