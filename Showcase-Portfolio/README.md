@@ -6,7 +6,7 @@
 > 
 > **To protect Intellectual Property:** The complete source code and logic are stored in a private repository. This showcase contains high-level documentation and selected code highlights.
 > 
-> **Recruiters & Hiring Managers:** If you would like to review the full codebase, please reach out via [LinkedIn](https://www.linkedin.com/in/your-profile/) or email. I am happy to provide access!
+> **Recruiters & Hiring Managers:** If you would like to review the full codebase, please reach out via email thanusha13062006@gmail.com. I am happy to provide access!
 
 ---
 
@@ -43,17 +43,7 @@ In this showcase, I have included selected files in the `src_highlights/` direct
 ---
 
 ## 📸 Website Preview
-
-<p align="center">
-  <img src="./Screenshots/home.png" width="45%" alt="Home Page" />
-  <img src="./Screenshots/login.png" width="45%" alt="Role-based Login" />
-</p>
-
-<p align="center">
-  <img src="./Screenshots/placelist.png" width="45%" alt="Trip Listings" />
-  <img src="./Screenshots/details.png" width="45%" alt="Dynamic Details" />
-</p>
-
+**WEBSITE URL**: travora-trip.onrender.com
 ---
 
 ## 🛠️ Tech Stack
